@@ -1,0 +1,6 @@
+Numbers= range(1,10)
+
+Sequence of numbers = []
+For number in numbers:
+If number % 5 in (1,2)
+Sequence_of_number
